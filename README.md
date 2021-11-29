@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bouissafarne
 - 👀 I’m interested in ... web development 
-- 🌱 I’m currently learning ...HTML&CSS gavascript
+- 🌱 I’m currently learning ...HTML&CSS javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...contact@servicesmaroc.org
 
